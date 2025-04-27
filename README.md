@@ -1,6 +1,6 @@
 # LibertT-HackSpire2025
 
-# Welcome to Smaranai
+# Welcome to Memento.ai
 
 ## Project info
 
